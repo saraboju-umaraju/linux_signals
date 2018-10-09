@@ -1,0 +1,2 @@
+just caught hangup siganl from parent ( bash ) 
+just caught hangup siganl from parent ( bash ) 
